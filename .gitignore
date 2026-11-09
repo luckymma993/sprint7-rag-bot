@@ -1,0 +1,6 @@
+raw/
+raw_html/
+.venv/
+__pycache__/
+.local-model/
+logs/server*.log
