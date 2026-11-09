@@ -1,0 +1,111 @@
+
+Вопрос: Кто такой Tevzek Caenor и почему он покинул орден Salphos?
+--- Рассуждение и ответ ---
+Шаги:
+1. Ищу информацию о Tevzek Caenor в документах.
+2. В документе [1] говорится, что Caenor была изгнана из Salphos Order после того, как её оправдали, но она отказалась возвращаться.
+3. В документе [2] упоминается, что она была изгнана из Salphos Order после того, как её обвинили в убийствах, но позже оправдали.
+Ответ: Tevzek Caenor — изгнанная из Salphos Order. Она покинула орден, потому что отказалась возвращаться после того, как её оправдали за предъявленные обвинения. 
+Источник: Tevzek Caenor
+--- Найдено в базе знаний ---
+1. Tevzek Caenor  [knowledge_base/tevzek-caenor.md, схожесть 0.82]
+2. Tevzek Caenor  [knowledge_base/tevzek-caenor.md, схожесть 0.813]
+3. Tevzek Caenor > Biography > Childhood  [knowledge_base/tevzek-caenor.md, схожесть 0.805]
+4. Tevzek Caenor  [knowledge_base/tevzek-caenor.md, схожесть 0.805]
+(100.2 с, токенов в запросе 1780, в ответе 182)
+
+Вопрос: Что такое Void Core и какое оружие на нём было?
+--- Рассуждение и ответ ---
+Шаги:
+1. Ищу в контексте, что такое Void Core.
+2. В документе [3] указано, что Void Core — это мегаоружие, способное уничтожать планеты.
+3. В документе [1] описаны оружейные системы Void Core, включая мегабeam, 15 000 плазмоканонов и 768 телеповодных установок.
+Ответ: Void Core — это орбитальная батарейная станция, способная уничтожать планеты. На нём было установлено мегабeam, 15 000 плазмоканонов и 768 телеповодных установок.
+Источник: RK-8 Orbital Battle Station
+--- Найдено в базе знаний ---
+1. RK-8 Orbital Battle Station > Description > Armaments and defensive systems  [knowledge_base/rk-8-orbital-battle-station.md, схожесть 0.815]
+2. RK-8 Orbital Battle Station  [knowledge_base/rk-8-orbital-battle-station.md, схожесть 0.804]
+3. RK-8 Orbital Battle Station  [knowledge_base/rk-8-orbital-battle-station.md, схожесть 0.801]
+4. Vexwing starwing > History > Operational history > Great Schism War  [knowledge_base/vexwing-starwing.md, схожесть 0.8]
+(123.6 с, токенов в запросе 1827, в ответе 189)
+
+Вопрос: Какая ледяная планета является родиной вида snowfang?
+--- Рассуждение и ответ ---
+Шаги:
+1. Ищу в контексте информацию о родине вида snowfang.
+2. В документе Havrmara указано, что Havrmara является родиной вида snowfang.
+Ответ: Havrmara.
+Источник: Havrmara
+--- Найдено в базе знаний ---
+1. Havrmara > Description  [knowledge_base/havrmara.md, схожесть 0.795]
+2. Havrmara  [knowledge_base/havrmara.md, схожесть 0.759]
+3. Nykai > Description > Heart of lava  [knowledge_base/nykai.md, схожесть 0.757]
+4. Nykai  [knowledge_base/nykai.md, схожесть 0.753]
+(54.8 с, токенов в запросе 1647, в ответе 64)
+
+Вопрос: Which planet has two suns and moisture farms?
+--- Рассуждение и ответ ---
+Шаги:
+1. Ищу в контексте планету с двумя солнцами и moisture farms.
+2. В документе [1] описано, что Tevlan — это планета, которая находится в двойной звездной системе и имеет moisture farms.
+Ответ: Tevlan.
+Источник: Tevlan
+--- Найдено в базе знаний ---
+1. Tevlan  [knowledge_base/tevlan.md, схожесть 0.793]
+2. B-8CF > Biography > Beyond Tevlan  [knowledge_base/b-8cf.md, схожесть 0.791]
+3. Havrmara > Description  [knowledge_base/havrmara.md, схожесть 0.791]
+4. Quaulthil  [knowledge_base/quaulthil.md, схожесть 0.788]
+(69.7 с, токенов в запросе 1854, в ответе 79)
+
+Вопрос: Из чего сделан плазменный клинок и кто им пользовался?
+--- Рассуждение и ответ ---
+Шаги:
+1. Ищу в контексте, из чего сделан плазменный клинок.
+2. В документе Ixium crystal сказано, что ixium кристаллы использовались для изготовления плазменных клинков.
+3. Также в документе Ixium crystal упоминается, что Salphos и Zargoth использовали ixium кристаллы для создания плазменных клинков.
+Ответ: Плазменный клинок сделан из ixium кристаллов. Им пользовались Salphos и Zargoth.
+Источник: Ixium crystal
+--- Найдено в базе знаний ---
+1. Ixium crystal  [knowledge_base/ixium-crystal.md, схожесть 0.75]
+2. Voidjump drive > History  [knowledge_base/voidjump-drive.md, схожесть 0.749]
+3. Ixium crystal > Description  [knowledge_base/ixium-crystal.md, схожесть 0.745]
+4. Pulser > Description  [knowledge_base/pulser.md, схожесть 0.743]
+(71.7 с, токенов в запросе 1654, в ответе 144)
+
+Вопрос: Как приготовить борщ?
+(лучший найденный фрагмент слишком далёк от вопроса, нейросеть не вызывалась)
+--- Рассуждение и ответ ---
+Я не знаю: в базе знаний нет ответа на этот вопрос.
+--- Найдено в базе знаний ---
+1. Ursera Bregoth > Biography > Early life and apprenticeship  [knowledge_base/ursera-bregoth.md, схожесть 0.733]
+2. B-8CF > Biography > Serving the Maker  [knowledge_base/b-8cf.md, схожесть 0.729]
+3. Faelnor Halthossul > Biography > Xalan Ophthaswyn's Novice  [knowledge_base/faelnor-halthossul.md, схожесть 0.728]
+4. Ursera Bregoth > Biography  [knowledge_base/ursera-bregoth.md, схожесть 0.727]
+
+Вопрос: Сколько человек живёт на планете Tevlan?
+--- Рассуждение и ответ ---
+Шаги:
+1. Ищу в контексте информацию о населении планеты Tevlan.
+2. В документах не указано точное число жителей планеты Tevlan.
+Ответ: Я не знаю: в базе знаний нет ответа на этот вопрос.
+Источник: —
+--- Найдено в базе знаний ---
+1. Tevlan  [knowledge_base/tevlan.md, схожесть 0.813]
+2. Tevlan > Description  [knowledge_base/tevlan.md, схожесть 0.802]
+3. Tevlan > History > Early history  [knowledge_base/tevlan.md, схожесть 0.794]
+4. Tevlan > Description  [knowledge_base/tevlan.md, схожесть 0.79]
+(42.1 с, токенов в запросе 1622, в ответе 68)
+
+Вопрос: Who is Darth Vader?
+--- Рассуждение и ответ ---
+Шаги:
+1. Ищу в контексте информацию о Darth Vader.
+2. В контексте нет упоминаний о Darth Vader.
+Ответ: Я не знаю: в базе знаний нет ответа на этот вопрос.
+Источник: —
+--- Найдено в базе знаний ---
+1. Yarwyn Daelthos  [knowledge_base/yarwyn-daelthos.md, схожесть 0.789]
+2. Salphos  [knowledge_base/salphos.md, схожесть 0.783]
+3. Zargan Korthil Daelvael  [knowledge_base/zargan-korthil-daelvael.md, схожесть 0.781]
+4. Quaulthil > History > Dominion Era > Training ground of Havrgan Daelthos  [knowledge_base/quaulthil.md, схожесть 0.78]
+(50.6 с, токенов в запросе 1624, в ответе 61)
