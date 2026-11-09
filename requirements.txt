@@ -1,0 +1,4 @@
+faiss-cpu>=1.12
+sentence-transformers>=5.0
+langchain-text-splitters>=1.0
+numpy>=2.0

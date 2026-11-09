@@ -1,0 +1,19 @@
+{
+  "built": "2026-11-09",
+  "model": "intfloat/multilingual-e5-base",
+  "embedding_dimensions": 768,
+  "index_type": "faiss.IndexFlatIP (cosine similarity on normalized vectors)",
+  "documents": 60,
+  "chunks": 471,
+  "chunk_words_target": 240,
+  "chunk_overlap_words": 40,
+  "chunk_words_min": 64,
+  "chunk_words_median": 183,
+  "chunk_words_max": 248,
+  "chunks_over_token_limit": 0,
+  "max_tokens_per_chunk": 449,
+  "embedding_seconds": 113.9,
+  "total_seconds": 204.2,
+  "index_file_kb": 1413.0,
+  "chunks_file_kb": 595.0
+}
