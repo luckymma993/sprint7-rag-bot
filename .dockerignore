@@ -1,0 +1,11 @@
+.venv
+.git
+.local-model
+raw
+raw_html
+knowledge_base
+attack
+scripts
+logs
+__pycache__
+*.pyc
